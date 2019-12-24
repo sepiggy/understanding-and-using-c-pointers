@@ -3,3 +3,4 @@
 !*/
 ${env:TMPDIR}
 .DS_Store
+.vscode/
